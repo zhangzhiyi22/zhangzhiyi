@@ -1,0 +1,11 @@
+@LAST_MOVER=WHITE
+@@
+
+HCAGEACH
+NNN-N-NN
+--------
+---N-N--
+---nn---
+-----n--
+nnn---nn
+hcageach
